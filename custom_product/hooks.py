@@ -24,6 +24,11 @@ app_license = "mit"
 # Includes in <head>
 # ------------------
 
+
+web_include_js = "custom.bundle.js"
+
+web_include_css = "custom.bundle.css"
+
 # include js, css files in header of desk.html
 # app_include_css = "/assets/custom_product/css/custom_product.css"
 # app_include_js = "/assets/custom_product/js/custom_product.js"
